@@ -72,3 +72,10 @@ Use -  .requestMatchers("register").permitAll()
 Login & Verify user API:
 
 Even for login, we need to byPass Authentication step.
+
+
+**Encrypt & decrypt of the Password**
+
+anita-> ani
+sush-> password
+mala-> 9620
